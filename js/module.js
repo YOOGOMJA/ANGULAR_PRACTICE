@@ -1,0 +1,1 @@
+window.mod = angular.module('BlankApp' , []);
